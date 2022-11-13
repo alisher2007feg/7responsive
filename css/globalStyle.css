@@ -1,0 +1,16 @@
+.container{
+    margin:0 auto;
+    max-width: 1091px;
+    padding: 0;
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
+.grid{
+    display: grid;
+    align-items: center;
+   
+}
+
+
